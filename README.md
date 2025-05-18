@@ -4,6 +4,8 @@
 
 BMSTU Software Engeniering 2 course / VK x BMSTU Web-dev / 21 y.o.
 
+Старый аккаунт [Github](https://github.com/aleksandrgaroev)
+
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" alt="Python" />
