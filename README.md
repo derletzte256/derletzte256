@@ -2,7 +2,7 @@
 
 Я начинающий Go-разработчик в сфере промышленной разработки. Увлекаюсь веб-разработкой и стремлюсь получить практический опыт.
 
-**Студент программы веб-разработки VK Education.**
+BMSTU Software Engeniering 2 course / VK x BMSTU Web-dev / 21 y.o.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
