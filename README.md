@@ -2,7 +2,7 @@
 
 Я начинающий Go-разработчик в сфере промышленной разработки. Увлекаюсь веб-разработкой и стремлюсь получить практический опыт.
 
-BMSTU Software Engeniering 2 course / VK x BMSTU Web-dev / 20 y.o.
+BMSTU Software Engeniering 3 course / VK x BMSTU Web-dev / 20 y.o.
 
 Старый аккаунт [Github](https://github.com/aleksandrgaroev)
 
